@@ -29,3 +29,29 @@ laravel 関係のおすすめの拡張機能：
 ### Composer のインストール
 
 ### Laravel のインストール
+
+## clone を作ろーん
+
+文献：[https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b]
+
+### ターミナルから clone を実行
+
+`$ git clone gitのリンク`
+C:\Usser\sakka> の状態から行うと　　
+C:\Usser\sakka\git のリンクのレポジトリ名>にフォルダが現れる。  
+だから次にはそこに移動する。
+
+### Pull Request 用の Branch を作成する
+
+`$ cd レポジトリ名`  
+`$ git checkout -b develop`
+
+### さて編集
+
+さて編集といったときに忘れてはいけないのがレポジトリ(プロジェクト)名のフォルダを開くこと
+
+#### C:\Usser\sakka\git のリンクのレポジトリ名>
+
+↑ こういった形でフォルダが追加されたことを思い出そう。
+
+......あとはいつもの動作
