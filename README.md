@@ -26,4 +26,7 @@ laravel 関係のおすすめの拡張機能：
 
 ### Composer のインストール
 
-### Laravel のインストール
+### Laravel のインストール  
+
+## Laravelの別プロジェクトにこのREADME.mdのみを"マージ"したい  
+...
