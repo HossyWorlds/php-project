@@ -1,4 +1,4 @@
-# PHP(laravel)を用いたプロジェクト
+# PHP(laravel)を用いたプロジェクト ~how to~
 
 ## レポジトリの作り方とファイルへの接続法
 
@@ -27,7 +27,3 @@ laravel 関係のおすすめの拡張機能：
 ### Composer のインストール
 
 ### Laravel のインストール
-
-## Laravel の別プロジェクトにこの README.md のみを"マージ"したい
-
-...
