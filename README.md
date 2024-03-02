@@ -7,9 +7,11 @@
 まず初めにレポジトリを GitHub で作る。  
 そしたら以下のコマンドを実行する。  
 `git init`  
-"README.md"を作った後に、
+"README.md"を作った後に、  
 `git add README.md`  
 `git commit -m "first commit"`  
+`git branch -M main`  
+`git remote add origin gitのリンク`  
 `git push -u origin main` (なんか`-u`入れなくてもできちゃった...)  
 そしたら GitHub 上のレポジトリのページの画面が変わる。
 
