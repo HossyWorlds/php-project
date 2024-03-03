@@ -36,8 +36,8 @@ laravel 関係のおすすめの拡張機能：
 
 ### ターミナルから clone を実行
 
-`$ git clone gitのリンク`
-C:\Usser\sakka> の状態から行うと　　
+`$ git clone gitのリンク`  
+C:\Usser\sakka> の状態から行うと  
 C:\Usser\sakka\git のリンクのレポジトリ名>にフォルダが現れる。  
 だから次にはそこに移動する。
 
